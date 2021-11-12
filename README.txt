@@ -1,0 +1,1 @@
+För att få applikationen att fungera vänligen skriv in elevens namn
